@@ -8,8 +8,9 @@ Olso & Harris Financial conducted a creditworthiness analysis using a data that 
 
 Within our credit model, there were two types of loans: low-risk and high-risk loans. Low-risk loans (0) and High-risk loans are given to consumers. The creditworthiness analysis allowed Olso & Harris Financial to measure creditworthiness based on accuracy, precision, and recall scores.
 
- 
+![image](https://github.com/user-attachments/assets/ee9f41e9-508a-42d1-8e17-a1dc30a790bb)
 
+ 
 •	Precision measures each label for how many predicted occurrences is correct. For example, how many loans are low-risk (1) or high-risk(0) are actually low or high risk.
 
 •	Recall measures each label for how many actual occurrences are correctly predicted. For example, which loans are actually low risk/high-risk are predicted correctly.
