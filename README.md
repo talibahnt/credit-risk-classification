@@ -8,6 +8,8 @@ Olso & Harris Financial conducted a creditworthiness analysis using a data that 
 
 Within our credit model, there were two types of loans: low-risk and high-risk loans. Low-risk loans (0) and High-risk loans are given to consumers. The creditworthiness analysis allowed Olso & Harris Financial to measure creditworthiness based on accuracy, precision, and recall scores.
 
+The Logistic Regression Model
+
 ![image](https://github.com/user-attachments/assets/ee9f41e9-508a-42d1-8e17-a1dc30a790bb)
 
  
